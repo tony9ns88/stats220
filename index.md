@@ -11,7 +11,7 @@ study at home is always a really hard thing. I always feel tired when i'm studyi
 ![my_meme](https://user-images.githubusercontent.com/101080556/159102596-6c1b04fc-3324-47da-afaa-28b19c89b71a.png)
 
 And this is my R code
-library(magick)
+```library(magick)
 
 pigeon1 <- image_read("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpwmV0exiEKxGR_zlah9tQINbrkaU3yXif2w&usqp=CAU")%>% image_scale("281") %>%  image_annotate(text='GUUDER~BYE!',size=40,color='#00D7FF')
 
@@ -38,3 +38,4 @@ meme
 
 
 image_write(meme, "my_meme.png")
+```
