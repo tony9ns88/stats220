@@ -1,7 +1,7 @@
 # My first meme created
 
 ## Introduction 
-Hi guys I'm currently taking a very interesting course named **stats220** data technoology, If you are interested please come to our [course introduction page ](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)
+Hi guys I'm currently taking a very interesting course named **stats220** data technoology, If you are interested please come to our [course introduction page ](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213) And also my [personal github page!](https://github.com/tony9ns88/stats220)
 
 ### some idea about the meme
 study at home is always a really hard thing. I always feel tired when i'm studying. That's the main idea about the meme. The cute cat picture came from tiktok and it's good for private use and it's reallyyyyyy cute! For the pigeon, there is a colloquialism called "放鸽子"(fang ge zi) From the word it means release the pigeon but Chinese people says that when people make a promise but not keeping it. The word "GUUUderbye" is because in China people say the sound of pigeon is 咕（Gu) So more people uses Gu to replace 放鸽子.  Hope you can get what I mean!
